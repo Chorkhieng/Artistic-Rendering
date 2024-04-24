@@ -1,7 +1,7 @@
 # Artistic-Rendering
 
 Assignment 5 from CSCI-4611: Programming Interactive Computer Graphics and Games, University of Minnesota Twin Cities.  
-The purpose of this assignment is write lighting and shader programs.
+The purpose of this assignment is about learning to write lighting and shader programs.
 
 ## Recommendation
 To ensure this graphic work smoothly, use `Google Chrome` or `Microsoft Edge`
